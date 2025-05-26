@@ -57,7 +57,7 @@ Lo representamos a traves deñ siguienta digrama de casos de uso:
 
 ![alt text](image.png)
 
-    #Contribucion
+    # Contribucion
 
     ¿Quieres colabrorar en el desarrollo?
 
@@ -66,3 +66,7 @@ Lo representamos a traves deñ siguienta digrama de casos de uso:
         3. Realiza tus cambios y haz commit()
         4. Haz push a la rama()
         5. Abre un pull request su revision
+    
+    # Subvencion
+    
+    Este proyecto esta subvencionado por el [Gobuerno de España](https://www.marca.com/)
