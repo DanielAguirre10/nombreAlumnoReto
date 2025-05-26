@@ -19,7 +19,7 @@ ______________________________________________________
 
     1. Clona el repositorio desde Github:
 
-    [git clone https://github.com/DanielAguirre10/nombreAlumnoReto]
+            [git clone https://github.com/DanielAguirre10/nombreAlumnoReto]
 
     2. Abre el poryecto en tu entorno desarrollado preferido
 
