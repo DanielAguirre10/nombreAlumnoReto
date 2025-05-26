@@ -57,14 +57,13 @@ Lo representamos a traves deñ siguienta digrama de casos de uso:
 
 
 # Contribucion
+ ¿Quieres colabrorar en el desarrollo?
 
-    ¿Quieres colabrorar en el desarrollo?
-
-        1. Haz un fork del repositorio     
-        2. Crear una nueva rama ()
-        3. Realiza tus cambios y haz commit()
-        4. Haz push a la rama()
-        5. Abre un pull request su revision
+ 1. Haz un fork del repositorio     
+ 2. Crear una nueva rama ()
+   3. Realiza tus cambios y haz commit()
+  4. Haz push a la rama()
+ 5. Abre un pull request su revision
     
 # Subvencion
     
