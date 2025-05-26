@@ -18,7 +18,37 @@ ______________________________________________________
     Para instalar y configurar la palicacion en tu entorno local, siguentes los siguientes pasos:
 
     1. Clona el repositorio desde Github:
+
     [git clone https://github.com/DanielAguirre10/nombreAlumnoReto]
+
     2. Abre el poryecto en tu entorno desarrollado preferido
 
     3. Compila y ejecuta el proyecto
+
+    # Uso
+    + El sistema veterinario incluye las siguientes fincionalidades principales:
+        - Solicitud y gestion de citas
+        - Acceso y consulta del historial clinico
+        - Comunicacion entre pacientes y profesionales
+        - Gestion de recetas electronicas 
+        - Administracion del personal 
+        - Revision de informes
+        - Gestion de facturas
+    Para utilizar la aplicacion, sigue las instrucciones proporcionadas en la interdaz de usuario o consulta la documentacion del usuario incluida del repositorio.
+
+    A continuacion se detalla la funcion dentro del sistema de cada uno de los usuario:
+
+    **Usuario**         **Funcionalidad**
+    _____________________________________________________________________
+   
+    Paciente            Solicita citas, accede a su historial, contacta 
+                        con el medico
+    _____________________________________________________________________
+
+    Veterinario         Gestiona citas, consulta historiales
+
+    ______________________________________________________________________
+
+    Administrador       Administrar personal, informes y facturacion
+
+    ______________________________________________________________________     
