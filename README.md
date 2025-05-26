@@ -55,9 +55,8 @@ ______________________________________________________
 
 Lo representamos a traves deñ siguienta digrama de casos de uso:
 
-![alt text](image.png)
 
-    # Contribucion
+# Contribucion
 
     ¿Quieres colabrorar en el desarrollo?
 
@@ -67,6 +66,10 @@ Lo representamos a traves deñ siguienta digrama de casos de uso:
         4. Haz push a la rama()
         5. Abre un pull request su revision
     
-    # Subvencion
+# Subvencion
     
-    Este proyecto esta subvencionado por el [Gobuerno de España](https://www.marca.com/)
+    Este proyecto esta subvencionado por el [Gobierno de España](https://www.marca.com/)
+
+    ______________________________________________________________________
+
+    Para obtener mas infromacion sobre la aplicacion y su funcionamiento interno, consulta nuestra [documentacion tecnica](https://www.google.com/?hl=es)
