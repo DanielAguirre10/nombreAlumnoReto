@@ -54,7 +54,7 @@ ______________________________________________________
     ______________________________________________________________________
 
 Lo representamos a traves deñ siguienta digrama de casos de uso:
-![alt text](image-2.png)
+![alt text](image-3.png)
 
 
 # Contribucion
