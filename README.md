@@ -57,7 +57,7 @@ Lo representamos a traves deñ siguienta digrama de casos de uso:
 
 ![alt text](image.png)
 
-    # Contribucion
+    #Contribucion
 
     ¿Quieres colabrorar en el desarrollo?
 
