@@ -54,6 +54,7 @@ ______________________________________________________
     ______________________________________________________________________
 
 Lo representamos a traves deñ siguienta digrama de casos de uso:
+![alt text](image-2.png)
 
 
 # Contribucion
@@ -72,3 +73,5 @@ Lo representamos a traves deñ siguienta digrama de casos de uso:
  ______________________________________________________________________
 
  Para obtener mas infromacion sobre la aplicacion y su funcionamiento interno, consulta nuestra [documentacion tecnica](https://www.google.com/?hl=es)
+
+ ![alt text](image-1.png)
