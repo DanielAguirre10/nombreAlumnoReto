@@ -4,12 +4,12 @@ ______________________________________________________
 
 # Indice 
 + Docuementacion de la Aplicacion de Gestion Veterinaria
-    - [Indice](/README.md)
-    - [Introduccion](/README.md)
-    - [Insatalacion](/README.md)
-    - [Uso](/README.md)
-     - [Contribucion](/README.md)
-    - [Subvencion](/README.md)
+    - [Indice](#indice)
+    - [Introduccion](#introduccion)
+    - [Insatalacion](#instalacion)
+    - [Uso](#uso)
+     - [Contribucion](#contribucion)
+    - [Subvencion](#subvencion)
 
     # Introduccion
     El sistema de Gestion Veterinaria desarrolado por el alumanado del **IES Miguel Herrero Pereda** permite a pacientes, medicos y administradores gestionar las operaciones basicas de un centro veterinario de forma segura y efciente.
